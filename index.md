@@ -22,7 +22,7 @@ Don’t expect to solve all problems; aim at two or three.
 Next event
 ----------
 
-**Will Code For Drinks 2022** is planned for November 2022.
+**Will Code For Beer 2022** is planned for November 2022.
 
 ### Call for facilitators
 
