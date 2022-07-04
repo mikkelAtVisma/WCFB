@@ -1,6 +1,9 @@
 **Will Code For Drinks** is a social event hosted by Visma at offices spread around the globe.
 Bring your colleagues to collaborate in solving entertaining programming problems in return for delicious beer!
 
+> An excellent way to challenge your brain, and at the same time have a great time with your colleagues. Even though it's a competition, people like to help each other to get the best experience
+- Jesper Plantener, Chief Architect at Visma Enterprise DK
+
 > Will code for beer, var et virkelig hyggeligt 'gå-hjem' arrangement. Det er en sjov måde at socialisere med sine kollegaer på, samtidig med at man bliver lidt fagligt udfordret med de opgaver man skulle løse. Jeg glæder mig allerede til næste gang.
 
 - Anna Hansen, AI Engineer at Visma Dinero
