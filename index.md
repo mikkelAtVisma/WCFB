@@ -10,9 +10,11 @@ Bring your colleagues to collaborate in solving entertaining programming problem
 - Anna Hansen, AI Engineer at Visma Dinero
 
 > Good stuff!
+
 - Anonymous
 
 > I loved the atmosphere. It's was nice to see people concentrate as much as they did, because it's a sign of interest and fun. It was also great to see that the amount of participants has generally quadrupled. The only complaint I might have is that the difficulty level of the problems could have been more varied, so that people from different backgrounds can participate. But even that, I feel, is an unfair complaint, since the high difficulty level also made the whole event more challenging (read: "more fun") and highly educational. I will definitely come back next time, hopefully with much better skills!
+
 - Anonymous
 
 The problems are constructed to be attractive for newcomers, the atmosphere is extremely relaxed, and participants are encouraged to help each other with problem solving, debugging, or basic programming language or computer issues.
