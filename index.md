@@ -21,7 +21,7 @@ The problems are constructed to be attractive for newcomers, the atmosphere is e
 A facilitator will be available at the event and eager to help at all times during the event.
 The focus is on problem solving, social interaction within and among teams, programming, confidence-building, and fun.
 
-Unlike many similar events, **Will Code For Beer** is not a competition---there are no prizes to win and there is no awards ceremony.
+Unlike many similar events, **Will Code For Beer** is not a competition--- however there are hidden awards to win! (these will be revealed at the day of the event)
 
 Who is this for?
 ----------------
