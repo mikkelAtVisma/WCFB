@@ -56,7 +56,7 @@ Details
 
 Here’s how to have the most fun:
 
-* Bring your own laptop, which must be able to connect to the wireless network, for instance via eduroam.
+* Bring your own laptop, which must be able to connect to the wireless network.
 * One free beverage per solved problem per person.
 * Some twenty different programming languages are accepted, including Java, Python, JavaScript, and various C dialects. 
   See the [Kattis language overview](https://open.kattis.com/help) for the full list.
