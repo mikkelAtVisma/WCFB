@@ -1,5 +1,5 @@
 **Will Code For Beer** is a social event hosted by Visma at offices spread around the globe.
-Bring your colleagues to collaborate in solving entertaining programming problems in return for delicious beer!
+Bring your colleagues to collaborate in solving entertaining programming problems in return for delicious beer! **Will Code For Beer 2022** is planned for 11'th of November 2022 at 15:00 your local time.
 
 > An excellent way to challenge your brain, and at the same time have a great time with your colleagues. Even though it's a competition, people like to help each other to get the best experience
 
@@ -31,10 +31,7 @@ Even if you have zero confidence in your own programming ability, we promise tha
 On the other hand, the harder problems should be enough to keep experienced programmers busy.
 Don’t expect to solve all problems; aim at two or three.
 
-Next event
-----------
-
-**Will Code For Beer 2022** is planned for November 2022.
+**Will Code For Beer 2022** is planned for 11'th of November 2022 at 15:00 your local time.
 
 ### Call for facilitators
 
