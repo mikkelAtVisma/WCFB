@@ -66,8 +66,7 @@ Previous events
 ---------------
 
 * Friday, 12 November 2021, 16-19. _Will Code for Beer 2021_ took place in the Copenhagen Visma Office. The problems were at [https://visma-wcfb22.kattis.com/contests/vy4ghe](https://visma-wcfb22.kattis.com/contests/vy4ghe).
-* The contest is based on Will Code for Drinks, and the problem setters were Troels Bjerre Lund, Thore Husfeldt (chair), Christian Janos Lebeda, Oskar Haarklou Veileborg, and Johan Sannemo. WCFD 2021 enjoyed social, financial, and/or moral support of the computer science departments at IT University of Copenhagen and Aarhus University, ScrollBar and Datalogisk Fredagscafé, the BARC Centre for Basic Algorithms Research Copenhagen, Alessandro Bruni, and Kattis.
-* We owe them a big thanks for setting previous events up!
+* The contest is based on Will Code for Drinks, and the problem setters were Troels Bjerre Lund, Thore Husfeldt (chair), Christian Janos Lebeda, Oskar Haarklou Veileborg, and Johan Sannemo.
 
 
 
