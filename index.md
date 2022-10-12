@@ -59,7 +59,7 @@ Here’s how to have the most fun:
 * One free beverage per solved problem per person.
 * Some twenty different programming languages are accepted, including Java, Python, JavaScript, and various C dialects. 
   See the [Kattis language overview](https://open.kattis.com/help) for the full list.
-* No prior registration is required. Create your team at [Insert contest Link]
+* No prior registration is required. Create your team at [Awaiting contest Link, this will be updated soon!] [Insert contest Link]
 * After your team solves a problem (and having it accepted on the server), you will be allowed a delicious beer.
 
 Previous events
