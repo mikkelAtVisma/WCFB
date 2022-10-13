@@ -37,7 +37,7 @@ Don’t expect to solve all problems; aim at two or three.
 
 ### Call for facilitators
 
-Please send me an e-mail at mikkel.andersen@visma.com if you would like to help facilitate the event at your local Visma office!
+Please send me an e-mail if you would like to help facilitate the event at your local Visma office!
 
 (No) Preparation
 ----------------
