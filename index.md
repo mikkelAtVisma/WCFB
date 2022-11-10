@@ -1,7 +1,7 @@
 **Will Code For Beer** is a social event hosted by Visma at offices spread around the globe.
 Bring your colleagues to collaborate in solving entertaining programming problems in return for delicious beer! 
 
-**Will Code For Beer 2022** is planned for 11'th of November 2022 at 15:00 your local time.
+**Will Code For Beer 2022** is planned for 11'th of November 2022 at 15:00 your local time - contest site at: [https://visma-wcfb22.kattis.com/contests/vy4ghe](https://visma-wcfb22f.kattis.com/contests/z8u4ff)
 
 > An excellent way to challenge your brain, and at the same time have a great time with your colleagues. Even though it's a competition, people like to help each other to get the best experience
 
@@ -59,12 +59,11 @@ Here’s how to have the most fun:
 * One free beverage per solved problem per person.
 * Some twenty different programming languages are accepted, including Java, Python, JavaScript, and various C dialects. 
   See the [Kattis language overview](https://open.kattis.com/help) for the full list.
-* No prior registration is required. Create your team at [Awaiting contest Link, this will be updated soon!] [Insert contest Link]
+* No prior registration is required. Create your team at [https://visma-wcfb22.kattis.com/contests/vy4ghe](https://visma-wcfb22f.kattis.com/contests/z8u4ff)
 * After your team solves a problem (and having it accepted on the server), you will be allowed a delicious beer.
 
 Previous events
 ---------------
-
 * Friday, 12 November 2021, 16-19. _Will Code for Beer 2021_ took place in the Copenhagen Visma Office. The problems were at [https://visma-wcfb22.kattis.com/contests/vy4ghe](https://visma-wcfb22.kattis.com/contests/vy4ghe).
 * The contest is based on Will Code for Drinks, and the problem setters were Troels Bjerre Lund, Thore Husfeldt (chair), Christian Janos Lebeda, Oskar Haarklou Veileborg, and Johan Sannemo.
 
